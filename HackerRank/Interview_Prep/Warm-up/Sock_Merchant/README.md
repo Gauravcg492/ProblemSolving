@@ -13,7 +13,6 @@ sockMerchant has the following parameter(s):
 + ar: the colors of each sock
 
 ### Input Format
-
 The first line contains an integer , the number of socks represented in .
 The second line contains  space-separated integers describing the colors  of the socks in the pile.
 
@@ -21,7 +20,7 @@ The second line contains  space-separated integers describing the colors  of the
 + 1<=n<=100
 + 1<=arr[i]<=100 where 0<=i<n
 
-## Output Format
+### Output Format
 
 Return the total number of matching pairs of socks that John can sell.
 
