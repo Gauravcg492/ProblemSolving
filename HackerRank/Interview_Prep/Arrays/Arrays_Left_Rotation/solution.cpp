@@ -2,8 +2,6 @@
 
 using namespace std;
 
-vector<string> split_string(string);
-
 // Complete the rotLeft function below.
 vector<int> rotLeft(vector<int> a, int d) {
     int n = a.size();
